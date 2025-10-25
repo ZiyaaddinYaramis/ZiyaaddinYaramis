@@ -4,14 +4,28 @@
 Flutter • Firebase • React/Vite • Java • C# • Python • JS/TS  
 Kerava–Helsinki, Finland | Open to Work & Freelance
 
-[LinkedIn](https://www.linkedin.com/in/ziyaaddinyaramis/) · [Portfolio / ZyInnova](https://zyinnova.com) · [Email](mailto:ziyaaddinyaramis@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/ziyaaddin-y-8768841bb/) · [Portfolio / ZyInnova](https://portfolio.zyinnova.com/) · [Email](mailto:founder@zyinnova.com)
 
 ---
 
-## 🌍 Diller / Languages / Kielet
+## 🌍 Languages / Diller / Kielet
 
 <details>
-<summary><b>Türkçe (varsayılan)</b></summary>
+<summary><b>English</b></summary>
+
+Hi! I’m Ziyaaddin, a **Full-Stack developer** focusing on mobile and web. I build **multilingual** (TR/EN/FI) apps with Flutter + Firebase and modern sites with React/Vite/Tailwind. I care about **accessibility (a11y)**, **performance**, and **clean architecture**.
+
+- 🔭 **Current focus**: Flutter + Firebase (i18n, Auth, Firestore/RTDB), clean architecture  
+- 📱 **Mobile**: Android (Flutter), iOS compatibility planned  
+- 🌐 **Web**: React + Vite + Tailwind, JSON-LD, SEO, Lighthouse tuning  
+- 🧪 **Quality**: Axe/Lighthouse, NVDA/VoiceOver mini tests, simple CI  
+- 🧰 **Stack**: Dart/Flutter, Java, C#, Python, JS/TS, HTML/CSS, Firebase, Git/GitHub  
+- 🧭 **Brand**: Projects under the **ZyInnova** umbrella
+
+</details>
+
+<details>
+<summary><b>Türkçe</b></summary>
 
 Merhaba! Ben Ziyaaddin. Mobil ve web odaklı bir **Full‑Stack geliştiriciyim**. Flutter + Firebase ile **çok dilli** (TR/EN/FI) uygulamalar geliştiriyorum; React/Vite/Tailwind ile modern vitrin siteleri ve portföyler kuruyorum. Geliştirmelerimde **erişilebilirlik (a11y)**, **performans**, **temiz mimari** (MVVM/MVC) ve **çoklu dil** önceliklerimdir.
 
@@ -21,20 +35,6 @@ Merhaba! Ben Ziyaaddin. Mobil ve web odaklı bir **Full‑Stack geliştiriciyim*
 - 🧪 **Kalite**: Axe/Lighthouse, NVDA/VoiceOver mini testleri, CI adımları
 - 🧰 **Diller/Tech**: Dart/Flutter, Java, C#, Python, JS/TS, HTML/CSS, Firebase, Git/GitHub
 - 🧭 **Marka**: ZyInnova çatısı altında çoklu ürün/proje ekosistemi
-
-</details>
-
-<details>
-<summary><b>English</b></summary>
-
-Hi! I’m Ziyaaddin, a **Full‑Stack developer** focusing on mobile and web. I build **multilingual** (TR/EN/FI) apps with Flutter + Firebase and modern portfolio/landing sites with React/Vite/Tailwind. I care about **accessibility (a11y)**, **performance**, **clean architecture**, and pragmatic delivery.
-
-- 🔭 **Current focus**: Flutter + Firebase (i18n, Auth, Firestore/RTDB), clean architecture
-- 📱 **Mobile**: Android (Flutter), plan: iOS compatibility
-- 🌐 **Web**: React + Vite + Tailwind, JSON‑LD, SEO, Lighthouse tuning
-- 🧪 **Quality**: Axe/Lighthouse, NVDA/VoiceOver mini tests, simple CI
-- 🧰 **Stack**: Dart/Flutter, Java, C#, Python, JS/TS, HTML/CSS, Firebase, Git/GitHub
-- 🧭 **Brand**: Multi‑project ecosystem under ZyInnova
 
 </details>
 
@@ -54,31 +54,31 @@ Hei! Olen Ziyaaddin, **full‑stack‑kehittäjä** (mobiili ja web). Rakennan *
 
 ---
 
-## 🚀 Öne Çıkan Projeler (Featured)
+## 🚀 Featured Projects
 
-> İpuçları: Bağlantıları kendi repo URL’lerinle güncelle.
 
-| Proje | Açıklama | Teknolojiler |
+
+| Project | What it is | Tech |
 |---|---|---|
-| **Multilingual Todo (Flutter + Firebase)** | Auth, Firestore/RTDB, i18n (TR/EN/FI), temiz mimari. | Flutter, Firebase, MVVM |
-| **TMDB Movie App** | Çok dilli film keşfi, TMDB API, favoriler/arama, responsive UI. | Flutter, REST, Provider/Riverpod |
-| **Weather App** | OpenWeather API, konuma göre hava durumu, tema/dil desteği. | Flutter, HTTP |
-| **ZyInnova Site (React/Vite)** | Vitrin + portföy, JSON‑LD, a11y, Lighthouse optimizasyonu. | React, Vite, Tailwind |
-| **Kaboom.js Chess / Games** | Oyun mekaniği, bileşen tasarımı, temel kurallar. | JS, Kaboom.js |
-| **Java/C# Learning Labs** | Veri yapıları, algoritmalar ve mini konsol projeleri. | Java, C# |
+| **Multilingual Todo (Flutter + Firebase)** | Auth, Firestore/RTDB, i18n (TR/EN/FI), clean architecture. | Flutter, Firebase, MVVM |
+| **TMDB Movie App** | Multilingual movie discovery, TMDB API, favorites/search, responsive UI. | Flutter, REST, Provider/Riverpod |
+| **Weather App** | OpenWeather API, location-based weather, theme & language support. | Flutter, HTTP |
+| **ZyInnova Site (React/Vite)** | Landing/portfolio, JSON-LD, a11y, Lighthouse optimization. | React, Vite, Tailwind |
+| **Kaboom.js Chess / Games** | Board mechanics, components, basic rules. | JS, Kaboom.js |
+| **Java/C# Learning Labs** | Data structures, algorithms, small console apps. | Java, C# |
 
-> Daha fazla için → **Pinned Repos** bölümüne bakın.
+> See more in **Pinned Repos**.
 
 ---
 
-## 🧩 Teknik Yığın (Tech Stack)
+## 🧩 Tech Stack
 
-**Mobil:** Flutter (Dart), Android  
+**Mobile:** Flutter (Dart), Android  
 **Web:** React, Vite, Tailwind, HTML5, CSS3  
-**Backend/DB:** Firebase (Auth, Firestore, RTDB), REST API’ler  
-**Diller:** Java, C#, Python, JavaScript/TypeScript  
-**Araçlar:** Git/GitHub, VS Code, Android Studio, Postman  
-**Kalite:** Lighthouse, Axe, basic CI, NVDA/VoiceOver mini testleri
+**Backend/DB:** Firebase (Auth, Firestore, RTDB), REST APIs  
+**Languages:** Java, C#, Python, JavaScript/TypeScript  
+**Tools:** Git/GitHub, VS Code, Android Studio, Postman  
+**Quality:** Lighthouse, Axe, basic CI, NVDA/VoiceOver mini tests
 
 ---
 
@@ -90,21 +90,21 @@ Hei! Olen Ziyaaddin, **full‑stack‑kehittäjä** (mobiili ja web). Rakennan *
 - Top Languages  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZiyaaddinYaramis&layout=compact)
 
-> İstersen: streak‑stats, profile‑summary‑cards gibi kartlar da eklenebilir.
+
 
 ---
 
-## 🤝 İletişim
+## 🤝 Contact
 
 - LinkedIn: **linkedin.com/in/ziyaaddinyaramis**  
 - E‑mail: **ziyaaddinyaramis@gmail.com**  
 - Portföy: **https://zyinnova.com**  
 
-> İş birliklerine açığım: freelance, part‑time, proje bazlı.
+> Open to freelance, part-time, and project-based collaboration.
 
 ---
 
-## 📝 Notlar
+## 📝 Notes
 
-- **Açık Kaynak:** Basit ama faydalı paketler, örnekler ve "nasıl yapılır" repoları yayınlamayı sürdürüyorum.  
-- **Öğrenme Günlükleri:** Proje README’lerinde, sprint/"split" yapısı ve günlük raporları (📝) kısa özetlerle görünür.
+- **Open Source:** I publish small but useful packages, examples, and “how-to” repos.  
+- **Learning Logs:** Some READMEs include brief sprint/split summaries (📝).
