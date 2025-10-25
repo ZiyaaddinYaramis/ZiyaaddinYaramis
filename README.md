@@ -96,7 +96,7 @@ Hei! Olen Ziyaaddin, **full‑stack‑kehittäjä** (mobiili ja web). Rakennan *
 
 ## 🤝 Contact
 
-- LinkedIn: **linkedin.com/in/ziyaaddinyaramis**  
+- LinkedIn: **[linkedin.com/in/ziyaaddinyaramis](https://www.linkedin.com/in/ziyaaddin-y-8768841bb/)**  
 - E‑mail: **ziyaaddinyaramis@gmail.com**  
 - Portföy: **https://zyinnova.com**  
 
