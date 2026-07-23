@@ -1,53 +1,38 @@
 # Ziyaaddin Yaramis
 
-**Founder & Full-Stack Developer at [ZyInnova](https://zyinnova.com)**  
-Building maintainable web and mobile products from concept to production.  
-Kerava, Finland
+**Software Developer • Founder of [ZyInnova](https://zyinnova.com/)**
 
-[Portfolio](https://portfolio.zyinnova.com/) · [ZyInnova](https://zyinnova.com/) · [LinkedIn](https://www.linkedin.com/in/ziyaaddin-y-8768841bb/) · [Email](mailto:contact@zyinnova.com)
+I build practical web and mobile product work with clear scope, maintainable
+implementation and evidence-based communication.
 
----
+[Portfolio](https://portfolio.zyinnova.com/) ·
+[ZyInnova](https://zyinnova.com/) ·
+[ZyInnova GitHub](https://github.com/zyinnova) ·
+[LinkedIn](https://www.linkedin.com/in/ziyaaddin-y-8768841bb/) ·
+[Email](mailto:contact@zyinnova.com)
 
-## About
+## Current work
 
-I am a founder-driven full-stack developer working across product discovery, interface design, application development, deployment, and iteration.
+- **LemmikkiLife** — private ZyInnova pet-care product in development.
+  [Project page](https://zyinnova.com/projects/lemmikkilife)
+- **GameScan** — private ZyInnova game-discovery product in development.
+  [Project page](https://zyinnova.com/projects/gamescan)
+- **Multi-language Todo App** — public Flutter/Firebase prototype with English
+  and Finnish localization.
+  [Repository](https://github.com/ZiyaaddinYaramis/github_io_todo_app)
+- **Founder Portfolio** — live HTML, CSS and JavaScript portfolio.
+  [Live site](https://portfolio.zyinnova.com/) ·
+  [Repository](https://github.com/ZiyaaddinYaramis/portfolio-zyinnova-portfolio)
 
-My current focus is building practical digital products under ZyInnova, with an emphasis on maintainable architecture, accessibility, performance, and clear documentation.
+## Verified focus
 
-- **Mobile:** Flutter, Dart, Firebase
-- **Frontend:** React, Vite, Tailwind CSS, HTML, CSS, JavaScript
-- **Backend:** Java, Spring Boot, REST APIs
-- **Data:** Firebase/Firestore, SQL fundamentals
-- **Workflow:** Git, GitHub, product planning, documentation, iterative delivery
-
----
-
-## Selected work
-
-| Project | Description | Links |
-|---|---|---|
-| **ZyInnova** | Founder-led digital product studio and multilingual company website. | [Website](https://zyinnova.com/) |
-| **GameScan** | Multi-platform game discovery and compatibility product currently in development. | [Project page](https://zyinnova.com/projects/gamescan) |
-| **Founder Portfolio** | Production portfolio hosted at portfolio.zyinnova.com. | [Live site](https://portfolio.zyinnova.com/) · [Repository](https://github.com/ZiyaaddinYaramis/portfolio-zyinnova-portfolio) |
-| **Multilingual Todo App** | Flutter and Firebase application focused on localization and authentication patterns. | [Repository](https://github.com/ZiyaaddinYaramis/github_io_todo_app) |
-| **Movie Explorer** | Flutter application using The Movie Database API. | [Repository](https://github.com/ZiyaaddinYaramis/flutter_tmdb_movie_app) |
-| **Zikirmatik App** | Flutter-based digital counter application. | [Repository](https://github.com/ZiyaaddinYaramis/flutter_zikirmatik_app) |
-
----
-
-## Current direction
-
-- Developing GameScan and the ZyInnova product ecosystem
-- Strengthening full-stack Java, Flutter, Firebase, and modern frontend skills
-- Turning portfolio projects into clear, verifiable product case studies
-- Improving accessibility, performance, SEO, and deployment quality
-
----
+- Flutter and Dart
+- Firebase Authentication and Cloud Firestore
+- HTML, CSS and JavaScript
+- REST/HTTP integrations
+- Git, GitHub and product documentation
 
 ## Contact
 
-For product work, collaboration, or professional inquiries:
-
-- **Email:** [contact@zyinnova.com](mailto:contact@zyinnova.com)
-- **Portfolio:** [portfolio.zyinnova.com](https://portfolio.zyinnova.com/)
-- **LinkedIn:** [Ziyaaddin Yaramis](https://www.linkedin.com/in/ziyaaddin-y-8768841bb/)
+For professional or ZyInnova inquiries:
+[contact@zyinnova.com](mailto:contact@zyinnova.com)
